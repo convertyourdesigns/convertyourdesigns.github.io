@@ -1,2 +1,2 @@
-# convertyourdesigns.github.io
+# convertyourdesigns
 Convert Your Designs
