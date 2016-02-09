@@ -145,9 +145,9 @@ section.why > .left-cont > img {
 	top: -150px;
 	left: 500px;
 	/*transform: rotate(60deg);*/
-	 -webkit-animation:spin 20s linear infinite;
-    -moz-animation:spin 20s linear infinite;
-    animation:spin 20s linear infinite;
+	 -webkit-animation:spin 80s linear infinite;
+    -moz-animation:spin 80s linear infinite;
+    animation:spin 80s linear infinite;
 
 	z-index: -9999;
 }
