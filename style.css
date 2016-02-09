@@ -82,6 +82,10 @@ header {
 	font-size: 16px;
 }
 
+header > a.title {
+	font-weight: 500;
+}
+
 header > a {
 	float: left;
 	color: #111;
